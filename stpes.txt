@@ -1,0 +1,5 @@
+first add extenstion 
+second setup project 
+application folder project outptu select publish item 
+Add assemblies 
+publish item shortcut 

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleWeb2", "GoogleWeb2.csproj", "{E524A8DB-BD61-445B-9E2A-7D94BF877E63}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "googlesetup2", "..\googlesetup2\googlesetup2.vdproj", "{C2DC1A86-BDFB-4A4C-8F4F-0547CA8B5B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E524A8DB-BD61-445B-9E2A-7D94BF877E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E524A8DB-BD61-445B-9E2A-7D94BF877E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E524A8DB-BD61-445B-9E2A-7D94BF877E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E524A8DB-BD61-445B-9E2A-7D94BF877E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DC1A86-BDFB-4A4C-8F4F-0547CA8B5B48}.Debug|Any CPU.ActiveCfg = Debug
+		{C2DC1A86-BDFB-4A4C-8F4F-0547CA8B5B48}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDEB26F-F210-42F4-A0ED-B9767B8C73B9}
+	EndGlobalSection
+EndGlobal
